@@ -7,7 +7,7 @@ class Cat
   end
   
    def meow                   # getter method
-    "#{@breed}!"
+    "meow!"
   end
 end
 
