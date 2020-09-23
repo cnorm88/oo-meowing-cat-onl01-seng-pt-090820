@@ -2,12 +2,12 @@
 class Cat
   attr_accessor :name
   
-  def meow=(breed) 
-    @breed = breed
+  def meow=(meow) 
+    @meow = meow
   end
   
-  def breed
-    @breed
+   def meow                   # getter method
+    "#{@breed}!"
   end
 end
 
