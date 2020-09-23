@@ -7,7 +7,7 @@ class Cat
   end
   
    def meow                   # getter method
-    "meow!"
+    puts "meow!"
   end
 end
 
