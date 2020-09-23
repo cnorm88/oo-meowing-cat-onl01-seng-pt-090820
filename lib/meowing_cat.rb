@@ -6,7 +6,7 @@ class Cat
     @meow = meow
   end
   
-   def meow                   # getter method
+   def meow                   
     puts "meow!"
   end
 end
